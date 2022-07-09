@@ -32,8 +32,6 @@ function App() {
 		setItemOffset(newOffset);
 	};
 
-	console.log(users)
-
 	return (
 		<div className="App">
 			<div className="container">
